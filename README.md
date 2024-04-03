@@ -4,7 +4,7 @@
 - I did Digital Humanities work at Florida State University, where I applied statistics and computing in humanities research.
 - I have used machine learning and data mining techniques to work on projects concerning the history of biology, Haitian literature and history, monsters in literature, philosophy, and more!
 - Currently learning as much as I can about functional programming, statistics and machine learning.
-- I work at GovStrive, come learn about us: https://govstrive.com/federal-contracting/
+- I work at GovStrive, [come learn about us](https://govstrive.com/the-power-of-govstrive/)
 
 ### Languages and Tools:
 
